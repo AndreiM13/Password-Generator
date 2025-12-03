@@ -2,8 +2,8 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
 "/"];
 
 
-let passwordFirst = document.getElementById("first-password")
-let passwordSecond = document.getElementById("second-password")
+let passwordFirst = document.getElementById("first-password").addEventListener("click", generatePassword)
+let passwordSecond = document.getElementById("second-password").addEventListener("click", generatePassword)
 
 
 function generatePassword() {
