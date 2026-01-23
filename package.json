@@ -1,7 +1,12 @@
 {
   "name": "password-generator",
   "version": "1.0.0",
-  "private": true,
+  "description": "Generate passwords",
+  "main": "index.js",
   "scripts": {
-    "build": "echo \"No build step configured\""
-  }
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
