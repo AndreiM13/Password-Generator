@@ -1,12 +1,2 @@
 {
-  "name": "password-generator",
-  "version": "1.0.0",
-  "description": "Generate passwords",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {}
 }
